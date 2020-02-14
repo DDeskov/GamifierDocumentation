@@ -1,21 +1,13 @@
+.. GAMIFIER documentation master file, created by
+   sphinx-quickstart on Fri Feb 14 11:01:55 2020.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
 Welcome to GAMIFIER's documentation!
 ====================================
 
-Another simple header
-=====================
-
-Here is some text explaining some very complicated stuff.::
-
-    print 'hello'
-    >> hello
-
-
-Guide
-
 .. toctree::
    :maxdepth: 2
-
-   license
    :caption: Contents:
 
 

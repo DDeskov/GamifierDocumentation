@@ -18,8 +18,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'GAMIFIER'
-copyright = '2020, TECHTOPIA'
-author = 'TECHTOPIA'
+copyright = '2020, TECHTOPIA LTD'
+author = 'TECHTOPIA LTD'
 
 # The full version, including alpha/beta/rc tags
 release = '2.1.0'
